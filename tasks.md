@@ -34,3 +34,16 @@
 - добавляем **resolve** в **webpack.config.js**
 - добавили alias
 ***
+## 4-W_4 | Настройка лоадеров
+- смотрим https://webpack.js.org/loaders/
+- sass-loader
+    - `npm install sass-loader sass --save-dev`
+    - `npm install --save-dev css-loader`
+- добавляем rules
+- смотрим https://webpack.js.org/loaders/babel-loader/
+- или https://babeljs.io/setup#installation
+- установка `npm install --save-dev babel-loader @babel/core`
+- установка `npm install @babel/preset-env --save-dev`
+> это типо включает все самые последние фишки babel
+- добавляем **browserslist** в **package.json**
+***
