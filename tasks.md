@@ -47,3 +47,15 @@
 > это типо включает все самые последние фишки babel
 - добавляем **browserslist** в **package.json**
 ***
+## 5-W_5 | Добавление режимов сборки
+- добавляем переменные isProd, isDev
+- установка `npm i -D cross-env`
+    > помогает определять операционку и правильно задает переменную process.env.NODE_ENV
+- изменяем скрипты запуска используя cross-env
+- добавляем поле devtool
+- добавляем удобную функцию `fileName()`
+- добавим devServer
+    - `npm install webpack-dev-server --save-dev`
+- добавляем babel polyfill чтобы в браузере последние фишки работали
+    - `npm install --save @babel/polyfill`
+***
