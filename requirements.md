@@ -1,6 +1,6 @@
-#### Задачи
+### Глобальные Задачи
 
-**Pure Java Script Advanced Course**
+**Desc:** _Pure Java Script Advanced Course_
 
 - [ ] Применить Webpack _(включает imports/exports)_
     - [ ] Babel
@@ -21,5 +21,3 @@
 	- [ ] Development
 	
 		_1.0.2_
-
-Pure Java Script Advanced Course
