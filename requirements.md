@@ -1,4 +1,6 @@
-### Глобальные Задачи
+# [Главная](README.md)
+***
+## Глобальные Задачи
 
 **Desc:** _Pure Java Script Advanced Course_
 
