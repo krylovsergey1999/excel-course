@@ -59,3 +59,10 @@
 - добавляем babel polyfill чтобы в браузере последние фишки работали
     - `npm install --save @babel/polyfill`
 ***
+## 6-W_6 | Настройка ESlint
+- фиксим проблему с релоадем css
+- `npm i eslint eslint-loader babel-eslint -D`
+- `npm install --save-dev eslint eslint-config-google -D`
+- добавили файлы для конфигурации eslint
+- рефакторинг
+***
