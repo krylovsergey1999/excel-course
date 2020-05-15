@@ -1,9 +1,9 @@
-### Мое личное описание всех задач в произвольном формате
-* * *
-#### 1-W_1
+[Главная](README.md)
+***
+## 1-W_1
 - Создан файл webpack.config.js + добавлен readme.md
 * * *
-#### 2-W_2
+## 2-W_2
 - `npm init` = > _создан файл package.json_
 - идем глядеть https://webpack.js.org/guides/getting-started/
 - `npm install webpack webpack-cli --save-dev`
