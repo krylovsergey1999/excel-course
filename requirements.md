@@ -1,19 +1,21 @@
-#### Задачи
+# [Главная](README.md)
+***
+## Глобальные Задачи
 
-**Pure Java Script Advanced Course**
+**Desc:** _Pure Java Script Advanced Course_
 
 - [ ] Применить Webpack _(включает imports/exports)_
-    - [ ] Babel
-    - [ ] Scss
+    - [x] Babel
+    - [x] Scss
     - [ ] Eslint - _для чистоты кода_
-    - [ ] 2 Modes
-        - [ ] Dev
-            - [ ] Dev Server - _чтобы не перезапускать, а при изменение кода сразу обновлялось_
-            - [ ] SourceMaps - **не до конца понял**
+    - [x] 2 Modes
+        - [x] Dev
+            - [x] Dev Server - _чтобы не перезапускать, а при изменение кода сразу обновлялось_
+            - [x] SourceMaps - **не до конца понял**
             - [ ] Eslint - _для чистоты кода_
-            - [ ] Mot Minified JS & CSS - _сжатие кода_
-        - [ ] Prod
-            - [ ] Minified JS - _сжатие кода_
+            - [x] Mot Minified JS & CSS - _сжатие кода_
+        - [x] Prod
+            - [x] Minified JS - _сжатие кода_
 - [ ] Настроить git flow
 	- [ ] Production
 		
@@ -21,5 +23,3 @@
 	- [ ] Development
 	
 		_1.0.2_
-
-Pure Java Script Advanced Course
